@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asheimandreas
 - 👀 I’m interested in football, skiing and good food.
-- 🌱 I’m currently learning civil engineering at NTNU.
+- 🌱 I’m currently studying civil engineering at NTNU.
 - 📫 How to reach me: andreas.asheim@gmail.com
 
 <!---
